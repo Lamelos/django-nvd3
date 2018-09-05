@@ -22,7 +22,7 @@ history = readfile('CHANGELOG.rst').replace('.. :changelog:', '')
 
 
 setup(
-    name='django-nvd3',
+    name='django-nvd3-lamelos',
     version=get_version(),
     description="Django NVD3 - Chart Library for d3.js",
     long_description=readme + '\n\n' + history,
